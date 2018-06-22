@@ -1,5 +1,5 @@
 {
-    "name": "node_cryptonote_util",
+    "name": "cryptonote-util",
     "version": "0.18.6.22",
     "main": "cryptonote",
     "gypfile": true,
