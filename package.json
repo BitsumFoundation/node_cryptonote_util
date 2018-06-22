@@ -1,6 +1,6 @@
 {
     "name": "cryptonote-util",
-    "version": "0.18.6.22",
+    "version": "0.18.6",
     "main": "cryptonote",
     "gypfile": true,
     "author": {
